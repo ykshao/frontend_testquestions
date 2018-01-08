@@ -1,0 +1,4 @@
+实现一个简单的模板引擎
+render('我是{{name}},年龄{{age}},性别{{gender}}', {name: 'xiaoming', age: 18});
+结果：
+我是xiaoming，年龄18，性别undefined
