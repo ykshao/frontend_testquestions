@@ -1,0 +1,11 @@
+有一个全局对象a = {name:"xiaoming", age: 18}，有一个全局函数b，实现一个方法bindData，执行后，对a的name,age的任何赋值都会触发b的执行，b里面的作用域要指到绑定的对象上
+
+var a = {
+  _name: "xiaoming",
+  _age: 18  
+};
+function b() {
+    console.log('a的值发生变化,name='+this.name+',age='+this.age);
+}
+bindData(a, b);
+a['name'] = 'xiaohong'; //此时输出"a的值发生变化,name=xiaohong,age=18"
