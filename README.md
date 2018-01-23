@@ -7,4 +7,5 @@
 3. [分割数字](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A8%8B/3-%E5%88%86%E5%89%B2%E6%95%B0%E5%AD%97)
 4. [数字格式转换](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A8%8B/4-%E6%95%B0%E5%AD%97%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2)
 5. [数据绑定实现](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A8%8B/5-%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E5%AE%9E%E7%8E%B0)
+6. [实现数据持续变化](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A8%8B/6-%E5%AE%9E%E7%8E%B0%E6%95%B0%E6%8D%AE%E6%8C%81%E7%BB%AD%E5%8F%98%E5%8C%96)
 # 问答题
