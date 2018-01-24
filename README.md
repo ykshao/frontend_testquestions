@@ -9,5 +9,6 @@
 5. [数据绑定实现](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A8%8B/5-%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E5%AE%9E%E7%8E%B0)
 6. [实现数据持续变化](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A8%8B/6-%E5%AE%9E%E7%8E%B0%E6%95%B0%E6%8D%AE%E6%8C%81%E7%BB%AD%E5%8F%98%E5%8C%96) (考核一些边界值的处理以及模块的调用，不太具备典型性)
 7. [递归问题](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A8%8B/7-%E9%80%92%E5%BD%92) (伪代码)
+8. [Promise封装](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A8%8B/8-Promise%E5%B0%81%E8%A3%85)
 # 问答题
 1. [Promise相关问题](https://github.com/egliu/frontend_testquestions/blob/master/%E5%9F%BA%E7%A1%80/%E9%97%AE%E7%AD%94/1-Promise%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98/%E5%86%85%E5%AE%B9.md)
