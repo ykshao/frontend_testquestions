@@ -1,0 +1,2 @@
+1. 实现一个函数，可以判断a字符串是否被包含在b字符串中（不能用原生api，自己实现一个字符串查找）
+//KMP算法，链接：http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html
