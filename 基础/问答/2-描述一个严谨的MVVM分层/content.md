@@ -27,3 +27,4 @@ Vue.js是采用Object.defineProperty的getter和setter，并结合观察者模�
 1. [Vue.js 和 MVVM 小细节](http://www.cnblogs.com/onepixel/p/6034307.html)
 2. [什么是MVVM](https://github.com/X-Jray/blog/issues/3)
 3. [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
+4. [250行实现一个简单的MVVM](https://saul-mirone.github.io/2016/12/19/simple-mvvm/)
