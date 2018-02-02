@@ -14,3 +14,4 @@
 # 问答题
 1. [Promise相关问题](https://github.com/egliu/frontend_testquestions/blob/master/%E5%9F%BA%E7%A1%80/%E9%97%AE%E7%AD%94/1-Promise%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98/%E5%86%85%E5%AE%B9.md)
 2. [描述一个严谨的MVVM分层](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E9%97%AE%E7%AD%94/2-%E6%8F%8F%E8%BF%B0%E4%B8%80%E4%B8%AA%E4%B8%A5%E8%B0%A8%E7%9A%84MVVM%E5%88%86%E5%B1%82) (例子参见 https://github.com/egliu/MVVM)
+3. [如何用for in正确地遍历一个Object对象](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E9%97%AE%E7%AD%94/3-%E5%A6%82%E4%BD%95%E7%94%A8for%20in%E6%AD%A3%E7%A1%AE%E5%9C%B0%E9%81%8D%E5%8E%86%E4%B8%80%E4%B8%AAObject%E5%AF%B9%E8%B1%A1)
