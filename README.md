@@ -13,4 +13,4 @@
 9. [简单算法题](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A8%8B/9-%E7%AE%80%E5%8D%95%E7%AE%97%E6%B3%95%E9%A2%98)
 # 问答题
 1. [Promise相关问题](https://github.com/egliu/frontend_testquestions/blob/master/%E5%9F%BA%E7%A1%80/%E9%97%AE%E7%AD%94/1-Promise%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98/%E5%86%85%E5%AE%B9.md)
-2. [描述一个严谨的MVVM分层](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E9%97%AE%E7%AD%94/2-%E6%8F%8F%E8%BF%B0%E4%B8%80%E4%B8%AA%E4%B8%A5%E8%B0%A8%E7%9A%84MVVM%E5%88%86%E5%B1%82)
+2. [描述一个严谨的MVVM分层](https://github.com/egliu/frontend_testquestions/tree/master/%E5%9F%BA%E7%A1%80/%E9%97%AE%E7%AD%94/2-%E6%8F%8F%E8%BF%B0%E4%B8%80%E4%B8%AA%E4%B8%A5%E8%B0%A8%E7%9A%84MVVM%E5%88%86%E5%B1%82) (例子参见 https://github.com/egliu/MVVM)
